@@ -1,0 +1,17 @@
+{
+    "name": "uemg/portal",
+    "description": "O portal de integração de aplicativos",
+    "type": "library",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Jonas F. Lopes",
+            "email": "jonas.lopes@uemg.br"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/uemgbr/portal.php/issues",
+        "source": "https://github.com/uemgbr/portal.php",
+        "wiki": "https://github.com/uemgbr/portal.php/wiki"
+    }
+}
